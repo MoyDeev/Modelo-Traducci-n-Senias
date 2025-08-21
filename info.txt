@@ -17,3 +17,5 @@ OpenCV: 4.8.0.74
 scikit-learn: 1.3.0
 
 video en el que me basé para el desarrollo: https://www.youtube.com/watch?v=DbwKbsCWPSg
+
+por cada seña saqué 600 imagenes, las cuales 200 iban a la carpeta validacion y 400 a entrenamiento
